@@ -1,1 +1,0 @@
-# gotriva-trade-ai
